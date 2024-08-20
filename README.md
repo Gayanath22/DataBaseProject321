@@ -1,2 +1,2 @@
-# DataBaseProject321
+# Project Documentation
 - University Project for Database Management
